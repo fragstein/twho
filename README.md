@@ -8,3 +8,7 @@ Tested on ubuntu 16.04 LTS
 Compile:
 
 gcc -Wall twho.c -o twho
+
+TODO:
+
+ - remote host of the user
